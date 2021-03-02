@@ -1,5 +1,5 @@
 <?php
-require_once('./components/header.php');
+require_once('./components/header.php')
 ?>
 
 <img alt="profil" src="<?php echo $user["url"] ?>" class="mx-auto object-cover rounded-full h-96 w-96 "/>
